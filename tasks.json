@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "title": "Create-new-CLI-project.",
+        "done": false
+    },
+    {
+        "title": "Make-a-Complete-CLI-Task-Manager-by-myself.",
+        "done": false
+    },
+    {
+        "title": "Make-a-SQL_Database-for-the-CLI-task-manager.",
+        "done": false
+    }
+]
